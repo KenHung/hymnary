@@ -1,0 +1,3 @@
+[submodule "machinepianist_midi/machine_pianist"]
+	path = machinepianist_midi/machine_pianist
+	url = git@github.com:KenHung/machine_pianist.git
