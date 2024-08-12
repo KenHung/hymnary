@@ -4,14 +4,14 @@
 set -e
 
 # Directory containing input files
-input_dir="../../alvinwong_midi/raw"
+input_dir="../../midi/alvinwong"
 # Directory for output files
-output_dir="../output"
+output_dir="../../midi/alvinwong_ai"
 
 # Create output directory if it doesn't exist
 mkdir -p "$output_dir"
 
-cd machine_pianist
+cd src
 
 # Iterate over each file in the input directory
 for infile in "$input_dir"/*; do
