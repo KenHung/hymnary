@@ -1,10 +1,18 @@
+long
+4 - prefer christianstudy?
+381 - prefer hymnal?
+
+sustain pedal
 53
-99
 185
-194
-381
 552
 
+47 - noise?
+99 - high note
+1/115/273 - debug
+194 - disable one track
+
+demo
 33
 303
 306
