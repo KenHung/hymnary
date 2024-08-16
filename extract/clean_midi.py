@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from mido import MidiFile, MidiTrack
 
 
@@ -31,5 +33,6 @@ def remove_redundant_events(input_path):
     mid.save(input_path)
 
 
-remove_redundant_events("midi/alvinwong/115.主活.mid")
-remove_redundant_events("midi/alvinwong/273.進深，進深.mid")
+for file_path in Path("midi/alvinwong").iterdir():
+    if file_path.is_file():
+        remove_redundant_events(file_path)
