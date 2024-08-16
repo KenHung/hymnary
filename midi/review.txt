@@ -4,13 +4,18 @@ long
 
 sustain pedal
 53
+63
+156
 185
 552
 
 47 - noise?
 99 - high note
-1/115/273 - debug
+1/4/115/156/273 - debug
 194 - disable one track
+373 - ?
+
+any other?
 
 demo
 33
