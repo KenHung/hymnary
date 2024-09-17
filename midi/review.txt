@@ -9,14 +9,6 @@ sustain pedal
 99 - high note
 194 - disable one track
 
-multi-track
-{'397.十架曾否使你疲倦？.mid': 3,
- '381.讓我愛而不受感戴.mid': 6,
- '001.榮耀歸與至高神.mid': 4,
- '380.十字架的道路要犧牲.mid': 3,
- '573b.僕人的眼睛（中英）.mid': 3,
- '156.自伯大尼.mid': 4}
-
 demo
 33
 303
